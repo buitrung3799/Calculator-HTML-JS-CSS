@@ -1,4 +1,4 @@
-# Calculator-HTML-JS-CSS-
+# Calculator-HTML-JS-CSS
 
 - Yêu cầu:  
 + Không sử dụng thư viện ngoài , thuần HTML ,JS ,CSS
